@@ -1,0 +1,8 @@
+/home/ashr/dev/linux-dotnet/wpscan-auto-public/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ashr/dev/linux-dotnet/wpscan-auto-public/bin/Debug/wordpress-urls-and-users.txt
+/home/ashr/dev/linux-dotnet/wpscan-auto-public/bin/Debug/runwpscan.sh
+/home/ashr/dev/linux-dotnet/wpscan-auto-public/bin/Debug/wpscan-auto.exe.config
+/home/ashr/dev/linux-dotnet/wpscan-auto-public/bin/Debug/wpscan-auto.pdb
+/home/ashr/dev/linux-dotnet/wpscan-auto-public/bin/Debug/wpscan-auto.exe
+/home/ashr/dev/linux-dotnet/wpscan-auto-public/obj/x86/Debug/wpscan-auto.exe
+/home/ashr/dev/linux-dotnet/wpscan-auto-public/obj/x86/Debug/wpscan-auto.pdb

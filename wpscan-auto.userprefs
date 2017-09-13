@@ -1,8 +1,11 @@
 ﻿<Properties StartupItem="wpscan-auto.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WordpressMultiScan.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="runwpscan.sh">
     <Files>
-      <File FileName="WordpressMultiScan.cs" Line="46" Column="1" />
+      <File FileName="WordpressMultiScan.cs" Line="43" Column="33" />
+      <File FileName="wordpress-urls-and-users.txt" Line="1" Column="1" />
+      <File FileName="app.config" Line="1" Column="1" />
+      <File FileName="runwpscan.sh" Line="2" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
