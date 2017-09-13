@@ -1,0 +1,2 @@
+﻿somewordpresssite.com|someguy@somewhere.com;someotherguy@somewhere.com
+somewordpresssite2.com|someguy@somewhere.com;someotherguy@somewhere.com

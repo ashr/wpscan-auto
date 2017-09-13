@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="wpscan-auto.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordpressMultiScan.cs">
+    <Files>
+      <File FileName="WordpressMultiScan.cs" Line="46" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/ashr/dev/linux-dotnet/wpscan-auto/WordpressMultiScan.cs" line="36" column="39" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
